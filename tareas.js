@@ -1,3 +1,7 @@
-console.log("Estudiar tarea 1");
-console.log("Estudiar tarea 2");
-console.log("Estudiar tarea 3");
+const tareas = [
+    "Estudiar Git",
+    "Aprender GitHub",
+    "Practicar Node.js"
+];
+
+console.log(tareas);
